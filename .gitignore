@@ -1,5 +1,5 @@
-!build/*
+build/tools/*
 
-build/tools/
+!build/tools/.gitkeep
 
 test/
